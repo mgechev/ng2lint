@@ -14,15 +14,15 @@
   "author": "Minko Gechev <mgechev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@angular/compiler": "8.2.11",
-    "@angular/core": "8.2.11",
+    "@angular/compiler": "8.2.14",
+    "@angular/core": "8.2.14",
     "codelyzer": "5.2.2",
     "codemirror": "5.59.2",
     "rxjs": "6.5.3",
     "tslint": "5.20.0",
     "typescript": "3.9.7",
     "uglifyjs": "2.4.11",
-    "zone.js": "0.10.2"
+    "zone.js": "0.11.4"
   },
   "devDependencies": {
     "browserify": "16.5.0",
